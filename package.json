@@ -1,15 +1,15 @@
 {
-  "name": "scalp-bot",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^3.10.1",
-    "@typescript-eslint/parser": "^3.10.1",
-    "eslint": "^7.7.0",
-    "typescript": "^4.0.2"
-  },
-  "dependencies": {
-    "eslint-config-airbnb-typescript": "^9.0.0"
-  }
+    "name": "tradebot",
+    "version": "0.0.1",
+    "main": "index.ts",
+    "license": "MIT",
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^3.10.1",
+        "@typescript-eslint/parser": "^3.10.1",
+        "eslint": "^7.7.0",
+        "typescript": "^4.0.2"
+    },
+    "dependencies": {
+        "eslint-config-airbnb-typescript": "^9.0.0"
+    }
 }
