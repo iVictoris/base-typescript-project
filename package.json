@@ -1,15 +1,6 @@
 {
-  "name": "make-typescript-project",
+  "name": "scalp-bot",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
-  "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^2.31.0",
-    "@typescript-eslint/parser": "^2.31.0",
-    "eslint": "^6.8.0",
-    "typescript": "^3.8.3"
-  },
-  "dependencies": {
-    "eslint-config-airbnb-typescript": "^7.2.1"
-  }
+  "license": "MIT"
 }
